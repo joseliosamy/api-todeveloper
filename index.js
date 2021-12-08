@@ -1,5 +1,3 @@
-
-
 const express = require("express");
 const cors = require('cors');
 const app = express();
@@ -14,13 +12,12 @@ app.use((req, res, next) => {
 
 app.get('/', (req, res) => {
     res.json({
-        ok: 'vamos'
+        home: 'ok'
     })
 })
-
-app.get('/nlw', (req, res) => {
+app.get('/nlw1', (req, res) => {
     res.json({
-        ok: 'isso ai'
+        nlw1: 'ok'
     })
 })
 
