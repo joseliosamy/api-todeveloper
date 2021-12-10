@@ -7,7 +7,7 @@ module.exports = (req,res) =>{
 			//NLW1
 			{
 				eventName: "Next Level Week #1",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw1.jpg?raw=true",
+				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw1.jpg?token=ARHRXOJL7T7ENLDOPDZNZK3BXURFC",
 				redirectURL: "/eventos/next-level-week-1"
 			},
 			//NLW2
