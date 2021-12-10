@@ -17,7 +17,7 @@
 			  "destination": "/api/home.js"
 		  },
 		  {
-			  "source": "/users",
+			  "source": "/events",
 			  "destination": "/api/events.js"
 		  }
 	  ]

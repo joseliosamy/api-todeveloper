@@ -4,11 +4,31 @@
 module.exports = (req,res) =>{
 	if(req.method === 'GET'){
 		res.json([
+			//NLW1
 			{
 				eventName: "Next Level Week #1",
-				banner: "url",
-				link: "url"
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw1.jpg?raw=true",
+				redirectURL: "/eventos/next-level-week-1"
+			},
+			//NLW2
+			{
+				eventName: "Next Level Week #2",
+				bannerURL: "/images/nlw2.jpg",
+				redirectURL: "/eventos/next-level-week-2"
+			},
+			//NLW3
+			{
+				eventName: "Next Level Week #3",
+				bannerURL: "url",
+				redirectURL: "/eventos/next-level-week-3"
+			},
+			//NLW4
+			{
+				eventName: "Next Level Week #4",
+				bannerURL: "url",
+				redirectURL: "/eventos/next-level-week-4"
 			}
+			
 		]);
 	}else{
 		res.json([
