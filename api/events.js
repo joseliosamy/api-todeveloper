@@ -31,13 +31,13 @@ module.exports = (req,res) =>{
 			//NLW4 NODE
 			{
 				eventName: "Next Level Week #4 - Node",
-				bannerURL: "",
+				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw4Node.jpg?token=ARHRXOKWVFMWJLVWFEFY4J3BXUWG4",
 				redirectURL: "/eventos/next-level-week-4-node"
 			},
 			//NLW4 ELIXIR
 			{
 				eventName: "Next Level Week #4 - Elixir",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw4Node.jpg?token=ARHRXON4LDB2SU7YRY7G6B3BXUTY6",
+				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw4Elixir.jpg?token=ARHRXOKKR6T4XYNPJ7EPAW3BXUWIU",
 				redirectURL: "/eventos/next-level-week-4-elixir"
 			},
 			//NLW5 REACT
