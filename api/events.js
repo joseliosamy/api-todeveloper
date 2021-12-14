@@ -8,7 +8,29 @@ module.exports = (req,res) =>{
 			{
 				eventName: "Next Level Week #1",
 				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw1.jpg?token=ARHRXOJL7T7ENLDOPDZNZK3BXURFC",
-				redirectURL: "/eventos/next-level-week-1"
+				redirectURL: "/eventos/next-level-week-1",
+				eps: [
+					{
+						epURL: "https://youtu.be/Ey57mQ2UXWE",
+						epName: "Aula 01 - Acelerando sua evolução"
+				},
+					{
+						epURL: "https://youtu.be/ABOYAjINERI",
+						epName: "Aula 02 - Olhando para as oportunidades"
+				},
+					{
+						epURL: "https://youtu.be/n9sCJFY6yjw",
+						epName: "Aula 03 - A escolha da stack"
+				},
+					{
+						epURL: "https://youtu.be/iCJSN-kDLCg",
+						epName: "Aula 04 - Até 2 anos em 2 meses"
+				},
+					{
+						epURL: "https://youtu.be/bqdidKkMz0g",
+						epName: "Aula 05 - A milha extra"
+				}
+			]
 			},
 			//NLW2
 			{
