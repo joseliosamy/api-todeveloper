@@ -8,7 +8,7 @@ module.exports = (req,res) =>{
 			{
 				id: 1,
 				eventName: "Next Level Week #1",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw1.jpg?token=ARHRXOJL7T7ENLDOPDZNZK3BXURFC",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw1.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-1",
 				eps: [
 					{
@@ -107,7 +107,7 @@ module.exports = (req,res) =>{
 			{
 				id: 12,
 				eventName: "Imersão React Alura",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/IRA.jpg?token=ARHRXOIJT2RNDJ6SLLPFDADBXUUTI",
+				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/IRA.jpg?token=ARHRXONCZXF6KIDEE5FIMNDBZNP6O",
 				redirectURL: "/eventos/imersao-react-alura"
 			}
 			
