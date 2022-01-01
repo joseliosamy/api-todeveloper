@@ -12,23 +12,23 @@ module.exports = (req,res) =>{
 				redirectURL: "/eventos/next-level-week-1",
 				eps: [
 					{
-						epURL: "https://youtu.be/Ey57mQ2UXWE",
+						epURL: "Ey57mQ2UXWE",
 						epName: "Aula 01 - Acelerando sua evolução"
 				},
 					{
-						epURL: "https://youtu.be/ABOYAjINERI",
+						epURL: "ABOYAjINERI",
 						epName: "Aula 02 - Olhando para as oportunidades"
 				},
 					{
-						epURL: "https://youtu.be/n9sCJFY6yjw",
+						epURL: "n9sCJFY6yjw",
 						epName: "Aula 03 - A escolha da stack"
 				},
 					{
-						epURL: "https://youtu.be/iCJSN-kDLCg",
+						epURL: "iCJSN-kDLCg",
 						epName: "Aula 04 - Até 2 anos em 2 meses"
 				},
 					{
-						epURL: "https://youtu.be/bqdidKkMz0g",
+						epURL: "bqdidKkMz0g",
 						epName: "Aula 05 - A milha extra"
 				}
 			]
@@ -114,7 +114,7 @@ module.exports = (req,res) =>{
 		]);
 	}else{
 		res.json([
-			{status:'404'}
+			{status:'404'} 
 		])
 	};
 };
