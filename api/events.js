@@ -8,7 +8,7 @@ module.exports = (req,res) =>{
 			{
 				id: 1,
 				eventName: "Next Level Week #1",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw1.jpg?raw=true",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-1",
 				eps: [
 					{
@@ -37,7 +37,7 @@ module.exports = (req,res) =>{
 			{
 				id: 2,
 				eventName: "Next Level Week #2",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw2.jpg?token=ARHRXOJY7BAY4K3ZKL63WITBZNQ2E",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw2.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-2",
 				eps: [
 					{
@@ -66,7 +66,7 @@ module.exports = (req,res) =>{
 			{
 				id: 3,
 				eventName: "Next Level Week #3",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw3.jpg?token=ARHRXOL35JZ5AXVTBKQVTYTBZNQ6E",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw3.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-3",
 				eps: [
 					{
@@ -95,7 +95,7 @@ module.exports = (req,res) =>{
 			{
 				id: 4,
 				eventName: "Next Level Week #4 - ReactJS",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw4React.jpg?token=ARHRXONRSQUU7QJ2GYTFWZDBZNRB4",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw4React.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-4-reactjs",
 				eps: [
 					{
@@ -124,7 +124,7 @@ module.exports = (req,res) =>{
 			{
 				id: 5,
 				eventName: "Next Level Week #4 - Node",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw4Node.jpg?token=ARHRXOLAXIQB53S2MCW763LBZNRAU",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw4Node.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-4-node",
 				eps: [
 					{
@@ -153,7 +153,7 @@ module.exports = (req,res) =>{
 			{
 				id: 6,
 				eventName: "Next Level Week #4 - Elixir",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw4Elixir.jpg?token=ARHRXOPV74DUFYVIFJ7RL5LBZNRCA",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw4Elixir.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-4-elixir",
 				eps: [
 					{
@@ -182,7 +182,7 @@ module.exports = (req,res) =>{
 			{
 				id: 7,
 				eventName: "Next Level Week #5 - Reactjs",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw5React.jpg?token=ARHRXOJ2BZ37VXM3RKUW5RLBZNRFS",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5React.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-reactjs",
 				eps: [
 					{
@@ -211,7 +211,7 @@ module.exports = (req,res) =>{
 			{
 				id: 8,
 				eventName: "Next Level Week #5 - React Native",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw5ReactNative.jpg?token=ARHRXOMXUVSQKMFBFGXAJV3BZNRHA",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5ReactNativejpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-react-native",
 				eps: [
 					{
@@ -240,7 +240,7 @@ module.exports = (req,res) =>{
 			{
 				id: 9,
 				eventName: "Next Level Week #5 - Node",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw5Node.jpg?token=ARHRXOPY6SYS7K5UOMXKGALBZNRFM",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5Nodejpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-node",
 				eps: [
 					{
@@ -269,7 +269,7 @@ module.exports = (req,res) =>{
 			{
 				id: 10,
 				eventName: "Next Level Week #5 - Elixir",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw5Elixir.jpg?token=ARHRXOKZC4O2HC2WUGNOB3DBZNRFA",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5Elixir.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-elixir",
 				eps: [
 					{
@@ -298,7 +298,7 @@ module.exports = (req,res) =>{
 			{
 				id: 11,
 				eventName: "Next Level Week #5 - Flutter",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/nlw5Flutter.jpg?token=ARHRXOLEJZ22AJUTB2DXYGLBZNRFG",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5Flutter.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-flutter",
 				eps: [
 					{
@@ -331,7 +331,7 @@ module.exports = (req,res) =>{
 			{
 				id: 12,
 				eventName: "Imersão React Alura",
-				bannerURL: "https://raw.githubusercontent.com/joseliosamy/api-todeveloper/main/images/IRA.jpg?token=ARHRXOJ4OC4QUOS5RNCF6RLBZNRKK",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/IRA.jpg?raw=true",
 				redirectURL: "/eventos/imersao-react-alura",
 				eps: [
 					{
