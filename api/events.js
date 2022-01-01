@@ -8,7 +8,7 @@ module.exports = (req,res) =>{
 			{
 				id: 1,
 				eventName: "Next Level Week #1",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw.jpg?raw=true",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw1.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-1",
 				eps: [
 					{
@@ -211,7 +211,7 @@ module.exports = (req,res) =>{
 			{
 				id: 8,
 				eventName: "Next Level Week #5 - React Native",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5ReactNativejpg?raw=true",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5ReactNative.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-react-native",
 				eps: [
 					{
@@ -240,7 +240,7 @@ module.exports = (req,res) =>{
 			{
 				id: 9,
 				eventName: "Next Level Week #5 - Node",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5Nodejpg?raw=true",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw5Node.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-5-node",
 				eps: [
 					{
