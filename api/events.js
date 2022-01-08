@@ -31,7 +31,18 @@ module.exports = (req,res) =>{
 						epURL: "bqdidKkMz0g",
 						epName: "Aula 05 - A milha extra"
 				}
-			]
+			],	
+				complementaryMaterial: [
+					{
+						downloadURL: "https://drive.google.com/u/0/uc?id=1o-_yvwxJ-G_rmYtPgXVm4Xz9zYS1mfKv&export=download"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-01-discovery"
+					},
+					{
+						figma: "https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web"
+					}
+				]
 			},
 			//NLW2
 			{
@@ -60,7 +71,18 @@ module.exports = (req,res) =>{
 						epURL: "kuGEcBZd9D0",
 						epName: "Aula 05 - A milha extra"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "https://drive.google.com/u/0/uc?id=1QzHR42CdDIoVuUmTjyzZYAllatUKhHDx&export=download"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-02-discovery"
+					},
+					{
+						figma: "https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546"
+					}
+				]
 			},
 			//NLW3
 			{
@@ -89,13 +111,27 @@ module.exports = (req,res) =>{
 						epURL: "z260PEeDuCc",
 						epName: "Aula 05 - A milha extra"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "https://drive.google.com/u/0/uc?id=1MoBmJOUN0dC0DDrXxaRLKLk2hFvWnHR2&export=download"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-03-discovery"
+					},
+					{
+						figma: "https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web"
+					},
+					{
+						notion: "https://www.notion.so/Configurando-o-ambiente-953aad022cda4fbcb149be2bfe793995"
+					}
+				]
 			},
 			//NLW4 REACT
 			{
 				id: 4,
 				eventName: "Next Level Week #4 - ReactJS",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw4React.jpg?raw=true",
+				bannerURL: "https://drive.google.com/u/0/uc?id=1RZiyXyvEdqObt7hbF7gVmKxYxnqnIIyG&export=download",
 				redirectURL: "/eventos/next-level-week-4-reactjs",
 				eps: [
 					{
@@ -118,7 +154,21 @@ module.exports = (req,res) =>{
 						epURL: "p-3HCTdZy6U",
 						epName: "Aula 05 - Próximo nível com React "
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "https://drive.google.com/u/0/uc?id=1MoBmJOUN0dC0DDrXxaRLKLk2hFvWnHR2&export=download"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-04-reactjs"
+					},
+					{
+						figma: "https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8"
+					}
+				]
 			},
 			//NLW4 NODE
 			{
@@ -147,7 +197,15 @@ module.exports = (req,res) =>{
 						epURL: "Ge79lY34t1Q",
 						epName: "Aula 05 - Finalizando nossa api com validações"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-04-nodejs"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-Node-js-ae9fea3f78894139af4268d198294e2a"
+					}
+				]
 			},
 			//NLW4 ELIXIR
 			{
@@ -176,7 +234,15 @@ module.exports = (req,res) =>{
 						epURL: "_e92M-jJG-k",
 						epName: "Aula 05 - Autenticação e Testes"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-04-elixir"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-Elixir-f823443de76840cbbcb8ab1db8aa4667"
+					}
+				]
 			},
 			//NLW5 REACT
 			{
@@ -205,7 +271,21 @@ module.exports = (req,res) =>{
 						epURL: "xsepsbkP61M",
 						epName: "Aula 05 - Surface Exploration"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "a adicionar"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-reactjs"
+					},
+					{
+						figma: "https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8"
+					}
+				]
 			},
 			//NLW5 REACT NATIVE
 			{
@@ -234,7 +314,21 @@ module.exports = (req,res) =>{
 						epURL: "05XnwYKNEtY",
 						epName: "Aula 05 - Surface Exploration "
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "a adicionar"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-react-native"
+					},
+					{
+						figma: "https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-79e0e4c3e992462a9b11f2745b0f2785"
+					}
+				]
 			},
 			//NLW5 NODE
 			{
@@ -263,7 +357,18 @@ module.exports = (req,res) =>{
 						epURL: "TzPQH-x7ue4",
 						epName: "Aula 05 - Surface Exploration "
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "a adicionar"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-nodejs"
+					},
+					{
+						notion: "https://www.notion.so/Trilha-Node-js-0b238db0256c4ce889df0e9ce92f4a68"
+					}
+				]
 			},
 			//NLW5 ELIXIR
 			{
@@ -292,7 +397,18 @@ module.exports = (req,res) =>{
 						epURL: "7sqx6Fj9ejA",
 						epName: "Aula 05 - Surface Exploration"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "a adicionar"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-elixir"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-9d73d4eefa7043f593d9c768922306ca"
+					}
+				]
 			},
 			//NLW5 FLUTTER
 			{
@@ -325,7 +441,21 @@ module.exports = (req,res) =>{
 						epURL: "EvM5CyLR7Mc",
 						epName: "Aula 05 - Surface Exploration "
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "a adicionar"
+					},
+					{
+						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-flutter"
+					},
+					{
+						figma: "https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5/DevQuiz/duplicate"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-bbb7084d696d4ccd8bb0438aaf853d29"
+					}
+				]
 			},
 			//IRA
 			{
@@ -354,7 +484,21 @@ module.exports = (req,res) =>{
 						epURL: "KaZz5Z007C0",
 						epName: "Aula 05 - Páginas dinâmicas, animações e Lottie"
 				}
-			]
+				],
+				complementaryMaterial: [
+					{
+						downloadURL: "a adicionar"
+					},
+					{
+						repositoryGIT: "https://github.com/alura-challenges/aluraquiz-base"
+					},
+					{
+						figma: "https://www.figma.com/file/cg1MIzSRRss8ggpypQbmdD/AluraQuiz"
+					},
+					{
+						notion: "https://www.notion.so/Configura-es-do-ambiente-bbb7084d696d4ccd8bb0438aaf853d29"
+					}
+				]
 			}
 			
 		]);
