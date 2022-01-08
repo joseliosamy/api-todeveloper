@@ -131,7 +131,7 @@ module.exports = (req,res) =>{
 			{
 				id: 4,
 				eventName: "Next Level Week #4 - ReactJS",
-				bannerURL: "https://drive.google.com/u/0/uc?id=1RZiyXyvEdqObt7hbF7gVmKxYxnqnIIyG&export=download",
+				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw4React.jpg?raw=true",
 				redirectURL: "/eventos/next-level-week-4-reactjs",
 				eps: [
 					{
@@ -199,6 +199,9 @@ module.exports = (req,res) =>{
 				}
 				],
 				complementaryMaterial: [
+					{
+						downloadURL: "https://drive.google.com/u/0/uc?id=1RZiyXyvEdqObt7hbF7gVmKxYxnqnIIyG&export=download"
+					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-04-nodejs"
 					},
