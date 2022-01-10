@@ -40,7 +40,7 @@ module.exports = (req,res) =>{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-01-discovery"
 					},
 					{
-						figma: "https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web"
+						figma: "https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546"
 					}
 				]
 			},
@@ -80,7 +80,7 @@ module.exports = (req,res) =>{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-02-discovery"
 					},
 					{
-						figma: "https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546"
+						figma: "https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web"
 					}
 				]
 			},
@@ -277,7 +277,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: "a adicionar"
+						downloadURL: ""
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-reactjs"
@@ -320,7 +320,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: "a adicionar"
+						downloadURL: ""
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-react-native"
@@ -363,7 +363,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: "a adicionar"
+						downloadURL: ""
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-nodejs"
@@ -403,7 +403,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: "a adicionar"
+						downloadURL: ""
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-elixir"
@@ -447,7 +447,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: "a adicionar"
+						downloadURL: ""
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-flutter"
@@ -490,7 +490,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: "a adicionar"
+						downloadURL: ""
 					},
 					{
 						repositoryGIT: "https://github.com/alura-challenges/aluraquiz-base"
