@@ -277,7 +277,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: ""
+						downloadURL: undefined
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-reactjs"
@@ -320,7 +320,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: ""
+						downloadURL: undefined
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-react-native"
@@ -363,7 +363,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: ""
+						downloadURL: undefined
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-nodejs"
@@ -403,7 +403,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: ""
+						downloadURL: undefined
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-elixir"
@@ -447,7 +447,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: ""
+						downloadURL: undefined
 					},
 					{
 						repositoryGIT: "https://github.com/rocketseat-education/nlw-05-flutter"
@@ -490,7 +490,7 @@ module.exports = (req,res) =>{
 				],
 				complementaryMaterial: [
 					{
-						downloadURL: ""
+						downloadURL: undefined
 					},
 					{
 						repositoryGIT: "https://github.com/alura-challenges/aluraquiz-base"
